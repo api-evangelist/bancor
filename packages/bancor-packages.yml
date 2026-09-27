@@ -1,0 +1,25 @@
+generated: '2026-09-27'
+method: searched
+source: https://registry.npmjs.org/-/v1/search?text=bancor
+packages:
+  - name: "@bancor/contracts-solidity"
+    registry: "npm"
+    url: "https://www.npmjs.com/package/@bancor/contracts-solidity"
+    language: "javascript"
+    official: true
+    version: "0.7.15"
+    published: "2026-07-29"
+  - name: "@bancor/sdk"
+    registry: "npm"
+    url: "https://www.npmjs.com/package/@bancor/sdk"
+    language: "javascript"
+    official: true
+    version: "0.2.10"
+    published: "2021-05-12"
+  - name: "@bancor/carbon-sdk"
+    registry: "npm"
+    url: "https://www.npmjs.com/package/@bancor/carbon-sdk"
+    language: "javascript"
+    official: true
+    version: "0.0.130-DEV"
+    published: "2026-09-25"
